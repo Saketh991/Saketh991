@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saketh dathrika
 - 👀 I’m passionate about Data Science
-- 🌱 I’m completed my master's in data science at Northeastern University.
-- 💞️ I’m looking for data science full time opportunities.
+- 🌱 I’ve completed my master's in data science at Northeastern University.
+- 💞️ I’m looking for Data Science Full Time opportunities.
 - 📫 You can reach me on linkedin : [linkedin.com/in/saketh-dathrika/](https://www.linkedin.com/in/saketh-dathrika/)
 
 <!---
